@@ -1,0 +1,5 @@
+My cmake template project for C.
+
+Has a src dir with main and a local lib under the directory "shelf"
+Has a tests dir that lonks correctly with the local lib dir. Uses the check
+framework for unit tests.
